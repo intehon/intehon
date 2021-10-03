@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intehon
 - 👀 I’m interested in exploring the world (wide web) and enjoying life
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m currently learning front end 
 - 📫 How to reach me: intehon@gmail.com
 
 <!---
