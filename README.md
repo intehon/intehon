@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @intehon
-- 👀 Hand me a Neil Gaiman book and a glass of champagne and I'll be your friend forever
+- 👀 All I need: 📚🗺️🥡🥂
 - 🌱 Currently learning front end 
 - 📫 Reach me at: intehon@gmail.com
 
