@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @intehon
-- 👀 I’m interested in exploring the world (wide web) and enjoying life
-- 🌱 I’m currently learning front end 
-- 📫 How to reach me: intehon@gmail.com
+- 👀 Hand me a Neil Gaiman book and a glass of champagne and I'll be your friend forever
+- 🌱 Currently learning front end 
+- 📫 Reach me at: intehon@gmail.com
 
 <!---
 intehon/intehon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
