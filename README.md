@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @intehon
-- 👀 All I need: 📚🗺️🥡🥂
-- 🌱 Currently learning front end 
+- 👋 Hi, I’m @intehon 💅🏽
+- 👀 Frontend developer in need of more ❤️🦪🥂🖼️🃏📚📔🍱👯‍♀️
 - 📫 Reach me at: intehon@gmail.com
 
 <!---
